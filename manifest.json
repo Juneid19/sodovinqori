@@ -1,0 +1,21 @@
+{
+  "name": "Lodiko Sodonyo Vinyl Player",
+  "short_name": "Lodiko",
+  "description": "Radio Streaming Vinyl Style",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#ff6b6b",
+  "icons": [
+    {
+      "src": "https://www.radioplug.co.uk/img/channel/06-07-2019-08-11-00.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.radioplug.co.uk/img/channel/06-07-2019-08-11-00.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
